@@ -7,7 +7,7 @@ Here is simple instruction how to download and use CTF tasks
 
    If you don't know how to install Docker on your system here is instruction from official web resource
 
-* https://docs.docker.com/engine/install/
+      * https://docs.docker.com/engine/install/
 
 2. Download projects from git 
 
