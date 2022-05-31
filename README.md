@@ -16,3 +16,21 @@ git clone https://github.com/sakyra01/CTF.git
 
 ```
 # LFI
+
+1. Use docker in your local project repository which contains Dockerfile
+
+> docker build -t <image_name_which_you_add_by_own> .
+
+You could check bilded image by 
+
+> docker images 
+
+Now you have docker image, try to run it now
+
+> docker run -p 3000:80 <docker_image_name>
+
+Here is a lot of different flags to use docker which you would find on official web resource
+
+   * https://docs.docker.com/engine/reference/commandline/run/
+
+
