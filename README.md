@@ -1,9 +1,15 @@
 # CTF
 Here is simple instruction how to download and use CTF tasks 
 
-> By the way you should have Docker software
+# Hot to use 
 
-1. Download projects from git 
+1. You should have Docker software on your OS for successful usage
+
+If you don't know how to install Docker on your system here is instruction from official web resource
+
+* https://docs.docker.com/engine/install/
+
+2. Download projects from git 
 
 ```console
 git clone https://github.com/sakyra01/CTF.git
