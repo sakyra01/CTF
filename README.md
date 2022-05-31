@@ -5,7 +5,7 @@ Here is simple instruction how to download and use CTF tasks
 
 1. You should have Docker software on your OS for successful usage
 
-If you don't know how to install Docker on your system here is instruction from official web resource
+  If you don't know how to install Docker on your system here is instruction from official web resource
 
 * https://docs.docker.com/engine/install/
 
