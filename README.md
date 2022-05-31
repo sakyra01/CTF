@@ -33,4 +33,8 @@ Here is a lot of different flags to use docker which you would find on official 
 
    * https://docs.docker.com/engine/reference/commandline/run/
 
+2. You will find up service on localhost:3000 in this case by the way you could change port on docker run step 
+
+
+
 
